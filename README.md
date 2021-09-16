@@ -2,7 +2,7 @@
 ](https://github.com/wayneeg?tab=repositories)
 
 
-<a href="https://t.me/wayneeg"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Contact and Support" /></a>
+<a href="https://t.me/wayneeg"> <img src="https://img.shields.io/badge/telegram-Support_Group-informational?style=flat-square&logo=telegram" alt="Contact and Support" /></a>
 <!--
 **wayneeg/wayneeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
