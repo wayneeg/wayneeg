@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneeg)](https://github.com/wayneeg?tab=repositories)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneeg&show_icons=true&theme=radical)
+](https://github.com/wayneeg?tab=repositories)
 
 <!--
 **wayneeg/wayneeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
